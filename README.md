@@ -21,5 +21,5 @@ Excited to learn more about my journey or discuss cloud engineering? Feel free t
 ## 🙌 Acknowledgments
 A big thank you to the incredible team at Techgrounds for their guidance and support throughout my cloud engineering journey!
 
-## 🌟 Keep Soaring!
+## 🌟 End of README!
 Thank you for stopping by and exploring my Techgrounds portfolio. May your own journey be filled with endless discoveries and achievements! ✨
