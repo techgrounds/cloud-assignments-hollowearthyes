@@ -1,7 +1,7 @@
 # 🌟 Welcome to My Techgrounds Cloud Engineering Portfolio! 🚀
 
 ## 🎓 About Me
-Hey there! I'm **[Your Name]**, a passionate explorer of the digital realm and a student at **Techgrounds**. 🌈 Join me on my exhilarating journey as I delve into the world of cloud engineering and unlock the secrets of the cloud!
+Hey there! I'm **Sam**, a passionate explorer of the digital realm and a student at **Techgrounds**. 🌈 Join me on my exhilarating journey as I delve into the world of cloud engineering and unlock the secrets of the cloud!
 
 ## 🌩️ What I've Learned
 During my time at Techgrounds, I've immersed myself in the fascinating world of cloud engineering. Here are some of the key highlights:
