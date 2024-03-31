@@ -41,5 +41,5 @@ No significant problems were encountered during the completion of this exercise.
 ## Result
 The exercise was successful. Screenshots of Wireshark capturing network data and analyzing a specific protocol (e.g., HTTP) were obtained. The understanding of network protocols and Wireshark functionalities was enhanced through practical application. 
 
-![ERROR](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40kumarishefu.4507%2Ftry-hack-me-wireshark-traffic-analysis-write-up-part-2-11d299b504f3&psig=AOvVaw0feFZpmTAWNfFu16isnbiA&ust=1711968699019000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDjk8SqnoUDFQAAAAAdAAAAABAD)
+![ERROR](https://medium.com/@kumarishefu.4507/try-hack-me-wireshark-traffic-analysis-write-up-part-2-11d299b504f3)
 

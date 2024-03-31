@@ -34,34 +34,3 @@ Geen significante problemen ondervonden bij het uitvoeren van de opdracht.
 **Resultaat**
 Subnetten zijn gemaakt met behulp van een subnetcalculator en gevisualiseerd in een diagram. CIDR-notatie is gebruikt om subnetmaskers weer te geven. De voordelen van CIDR-notatie zijn uitgelegd en er is gereflecteerd op het gebruik van subnetten voor het organiseren en isoleren van delen van een netwerk. Screenshots van het subnetdiagram en CIDR-notatie zijn beschikbaar ter illustratie.
 
-                 +-----------------+
-                 | Internet        |
-                 |                 |
-                 +--------+--------+
-                          |
-                          |
-                          |
-                          |
-                          |
-                 +--------+--------+
-                 | Router/NAT      |
-                 | Functionaliteit |
-                 +--------+--------+
-                          |
-          +---------------+---------------+
-          |                               |
-   +------+------+               +--------+-------+
-   | Subnet 1  |               | Subnet 2       |
-   | LAN Only  |               | Internet Access|
-   | (min. 15  |               | (min. 30 hosts)|
-   | hosts)    |               |                |
-   +------+----+               +-------+--------+
-          |                            |
-          |                            |
-   +------+----------------------------+------+
-   |                                         |
-   |             Subnet 3                     |
-   |             Internet Gateway             |
-   |             (min. 5 hosts)               |
-   |                                         |
-   +-----------------------------------------+
