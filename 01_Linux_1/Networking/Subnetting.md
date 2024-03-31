@@ -34,3 +34,5 @@ Geen significante problemen ondervonden bij het uitvoeren van de opdracht.
 **Resultaat**
 Subnetten zijn gemaakt met behulp van een subnetcalculator en gevisualiseerd in een diagram. CIDR-notatie is gebruikt om subnetmaskers weer te geven. De voordelen van CIDR-notatie zijn uitgelegd en er is gereflecteerd op het gebruik van subnetten voor het organiseren en isoleren van delen van een netwerk. Screenshots van het subnetdiagram en CIDR-notatie zijn beschikbaar ter illustratie.
 
+![error](https://github.com/techgrounds/cloud-assignments-hollowearthyes/blob/811dc7026b5b758c887346c987e521a58375666e/00_includes/Networking/Schermafbeelding%202024-03-31%20133810.png)
+
