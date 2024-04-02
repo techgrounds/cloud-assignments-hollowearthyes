@@ -53,4 +53,4 @@ Let's generate a flowchart based on this structure.
 
 The flowchart for the described network architecture is ready. This diagram visualizes the main components of the network and their connections, emphasizing the separation between the DMZ and the private network, as well as highlighting the security measures that apply across the network.
 
-![Network Architecture Flowchart](sandbox:/mnt/data/network_architecture_flowchart.png)
+![Network Architecture Flowchart](https://github.com/techgrounds/cloud-assignments-hollowearthyes/blob/094d7095f319c3d6b51ad1c55b0cbc5d92e86522/00_includes/Networking/networkcasestudy.png)
