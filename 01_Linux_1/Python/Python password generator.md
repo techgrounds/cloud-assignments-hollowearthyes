@@ -1,6 +1,6 @@
 # Python password generator
 
-'''
+
 import random
 import string
 
@@ -22,4 +22,3 @@ while len(password) < 30:
 password = password[:30]
 
 print("Generated Password:", password)
-'''

@@ -1,6 +1,6 @@
 # Python Mutiple Conversation Tree
 
-'''
+
 import random
 import string
 
@@ -42,4 +42,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-'''
