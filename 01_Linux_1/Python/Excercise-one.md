@@ -1,5 +1,6 @@
 # Excercise 'One'
 
+'''python
 
 import random
 
@@ -14,3 +15,5 @@ print("eerst getal:", random_number1)
 print("tweede getal:", random_number2)
 
 print("plus:", sum)
+
+'''
